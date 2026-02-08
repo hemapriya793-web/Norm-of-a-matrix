@@ -44,13 +44,16 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
+
 ![WhatsApp Image 2026-02-09 at 12 45 34 AM](https://github.com/user-attachments/assets/a6bfc379-7b14-48d7-ac34-cc8229a40f3c)
 
 
 ### 2-Norm of a Matrix
+
 ![WhatsApp Image 2026-02-09 at 12 46 01 AM](https://github.com/user-attachments/assets/83508886-80f4-40fe-aa9a-4d4a58aa21b5)
 
 ### Infinity Norm of a Matrix
+
 ![WhatsApp Image 2026-02-09 at 12 47 52 AM](https://github.com/user-attachments/assets/2d617c94-7a72-4dc7-bd29-7f89e8d34250)
 
 ## Result
