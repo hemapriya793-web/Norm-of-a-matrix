@@ -45,18 +45,17 @@ print(Norm_of_matrix)
 ## Output:
 ### 1-Norm of a Matrix
 
-![WhatsApp Image 2026-02-09 at 12 45 34 AM](https://github.com/user-attachments/assets/0329b3fe-e0f5-4852-9af2-d1c0de59a5b4)
-
+![H 1 MATH AI](https://github.com/user-attachments/assets/63b68cfa-f691-4c74-a9eb-e47b4dbdec57)
 
 
 ### 2-Norm of a Matrix
 
-![WhatsApp Image 2026-02-09 at 12 46 01 AM](https://github.com/user-attachments/assets/0ff40642-9268-4404-9e4f-6d95e47034ce)
+![H 2 MATH AI](https://github.com/user-attachments/assets/262296ea-5f1b-4659-8e83-501d9a5cce7a)
 
 
 ### Infinity Norm of a Matrix
 
-![WhatsApp Image 2026-02-09 at 12 47 52 AM](https://github.com/user-attachments/assets/b0300ccb-4aa2-4d1c-9ed3-2006863e75c2)
+![H 3 MATH AI](https://github.com/user-attachments/assets/f05f99f4-c50c-4208-b615-adfff0e8f000)
 
 
 ## Result
