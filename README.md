@@ -57,6 +57,6 @@ print(Norm_of_matrix)
 
 ![H 3 MATH AI](https://github.com/user-attachments/assets/f05f99f4-c50c-4208-b615-adfff0e8f000)
 
-
+```
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
